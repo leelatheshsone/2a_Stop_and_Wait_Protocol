@@ -1,5 +1,5 @@
-# Name:priyanka R
-# Ref no:212223220081
+# Name:S.LEELATHESH
+# Ref no:212221045003
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
